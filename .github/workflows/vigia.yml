@@ -1,0 +1,39 @@
+# Se copia a .github/workflows/vigia.yml del repositorio del vigilante (público: así los minutos son gratis).
+name: vigia
+on:
+  schedule:
+    - cron: "*/10 * * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+concurrency: vigia
+jobs:
+  vigilar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q yt-dlp
+      - run: python vigia.py
+      - name: Avisar de los directos terminados
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'EOF'
+          import json, subprocess
+          for a in json.load(open("avisos.json", encoding="utf-8")):
+              etiqueta = "[GTA] " if a["gta"] else ""
+              titulo = "%sTerminó %s (%s): %s" % (etiqueta, a["canal"], a["plataforma"], a["titulo"][:80])
+              cuerpo = "Directo terminado.\n\nEnlace: %s\n\nPara clipearlo, en el kit 07: \"clipea el directo de %s\"." % (a["enlace"], a["canal"])
+              subprocess.run(["gh", "issue", "create", "--title", titulo, "--body", cuerpo], check=False)
+          EOF
+      - name: Guardar el estado
+        run: |
+          git config user.name "vigia"
+          git config user.email "vigia@users.noreply.github.com"
+          git add estado.json
+          git diff --cached --quiet || (git commit -q -m "estado" && git push -q)
