@@ -1,0 +1,127 @@
+{
+ "kick/carreraaa": {
+  "titulo": "",
+  "vivo": false,
+  "vod": null
+ },
+ "kick/coscu": {
+  "titulo": "",
+  "vivo": false,
+  "vod": null
+ },
+ "kick/pereira7": {
+  "titulo": "",
+  "vivo": false,
+  "vod": null
+ },
+ "kick/robleis": {
+  "titulo": "",
+  "vivo": false,
+  "vod": null
+ },
+ "kick/spreen": {
+  "titulo": "",
+  "vivo": false,
+  "vod": null
+ },
+ "kick/westcol": {
+  "titulo": "",
+  "vivo": false,
+  "vod": null
+ },
+ "twitch/agustin51": {
+  "titulo": "",
+  "vivo": false,
+  "vod": "2926805690"
+ },
+ "twitch/alexby11": {
+  "titulo": "",
+  "vivo": false,
+  "vod": "2926829439"
+ },
+ "twitch/auronplay": {
+  "titulo": "",
+  "vivo": false,
+  "vod": "2927869790"
+ },
+ "twitch/cristinini": {
+  "titulo": "",
+  "vivo": false,
+  "vod": "2919587759"
+ },
+ "twitch/djmariio": {
+  "titulo": "",
+  "vivo": false,
+  "vod": "2927735381"
+ },
+ "twitch/elmariana": {
+  "titulo": "",
+  "vivo": false,
+  "vod": "2928109085"
+ },
+ "twitch/elxokas": {
+  "titulo": "",
+  "vivo": false,
+  "vod": "2928719571"
+ },
+ "twitch/ibai": {
+  "titulo": "",
+  "vivo": false,
+  "vod": "2928776581"
+ },
+ "twitch/illojuan": {
+  "titulo": "",
+  "vivo": false,
+  "vod": "2928823801"
+ },
+ "twitch/juansguarnizo": {
+  "titulo": "",
+  "vivo": false,
+  "vod": "2927034006"
+ },
+ "twitch/knekro": {
+  "titulo": "",
+  "vivo": false,
+  "vod": "2927675228"
+ },
+ "twitch/mixwell": {
+  "titulo": "",
+  "vivo": false,
+  "vod": "2927775651"
+ },
+ "twitch/quackity": {
+  "titulo": "",
+  "vivo": false,
+  "vod": "2929015069"
+ },
+ "twitch/rivers_gg": {
+  "titulo": "",
+  "vivo": false,
+  "vod": "2925429036"
+ },
+ "twitch/rubius": {
+  "titulo": "",
+  "vivo": false,
+  "vod": "2928847805"
+ },
+ "twitch/thegrefg": {
+  "titulo": "",
+  "vivo": false,
+  "vod": "2928836093"
+ },
+ "twitch/vegetta777": {
+  "titulo": "",
+  "vivo": false,
+  "vod": "2927962639"
+ },
+ "twitch/willyrex": {
+  "titulo": "",
+  "vivo": false,
+  "vod": "2927682102"
+ },
+ "twitch/zeling": {
+  "titulo": "Zeling (live) 2026-11-15 14:08",
+  "vivo": true,
+  "vod": null
+ }
+}
