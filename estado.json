@@ -31,8 +31,8 @@
  },
  "twitch/agustin51": {
   "titulo": "agustin51 (live) 2026-11-15 19:46",
-  "vivo": true,
-  "vod": "2926805690"
+  "vivo": false,
+  "vod": "2929945037"
  },
  "twitch/alexby11": {
   "titulo": "",
@@ -51,8 +51,8 @@
  },
  "twitch/djmariio": {
   "titulo": "DjMaRiiO (live) 2026-11-15 19:46",
-  "vivo": true,
-  "vod": "2927735381"
+  "vivo": false,
+  "vod": "2929731086"
  },
  "twitch/elmariana": {
   "titulo": "",
@@ -60,7 +60,7 @@
   "vod": "2928109085"
  },
  "twitch/elxokas": {
-  "titulo": "elxokas (live) 2026-11-15 19:46",
+  "titulo": "elxokas (live) 2026-11-15 23:33",
   "vivo": true,
   "vod": "2928719571"
  },
@@ -70,7 +70,7 @@
   "vod": "2928776581"
  },
  "twitch/illojuan": {
-  "titulo": "IlloJuan (live) 2026-11-15 19:46",
+  "titulo": "IlloJuan (live) 2026-11-15 23:33",
   "vivo": true,
   "vod": "2928823801"
  },
@@ -80,7 +80,7 @@
   "vod": "2927034006"
  },
  "twitch/knekro": {
-  "titulo": "knekro (live) 2026-11-15 19:46",
+  "titulo": "knekro (live) 2026-11-15 23:33",
   "vivo": true,
   "vod": "2927675228"
  },
@@ -101,7 +101,7 @@
  },
  "twitch/rubius": {
   "titulo": "Rubius (live) 2026-11-15 19:46",
-  "vivo": true,
+  "vivo": false,
   "vod": "2928847805"
  },
  "twitch/thegrefg": {
