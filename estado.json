@@ -32,7 +32,7 @@
  "twitch/agustin51": {
   "titulo": "agustin51 (live) 2026-11-15 19:46",
   "vivo": false,
-  "vod": "2929945037"
+  "vod": "2930572629"
  },
  "twitch/alexby11": {
   "titulo": "",
@@ -50,8 +50,8 @@
   "vod": "2919587759"
  },
  "twitch/djmariio": {
-  "titulo": "DjMaRiiO (live) 2026-11-15 19:46",
-  "vivo": false,
+  "titulo": "DjMaRiiO (live) 2026-11-16 20:58",
+  "vivo": true,
   "vod": "2929731086"
  },
  "twitch/elmariana": {
@@ -60,8 +60,8 @@
   "vod": "2928109085"
  },
  "twitch/elxokas": {
-  "titulo": "elxokas (live) 2026-11-16 03:04",
-  "vivo": false,
+  "titulo": "elxokas (live) 2026-11-16 20:58",
+  "vivo": true,
   "vod": "2929730570"
  },
  "twitch/ibai": {
@@ -70,8 +70,8 @@
   "vod": "2928776581"
  },
  "twitch/illojuan": {
-  "titulo": "IlloJuan (live) 2026-11-15 23:33",
-  "vivo": false,
+  "titulo": "IlloJuan (live) 2026-11-16 20:58",
+  "vivo": true,
   "vod": "2929822269"
  },
  "twitch/juansguarnizo": {
@@ -121,7 +121,7 @@
  },
  "twitch/zeling": {
   "titulo": "Zeling (live) 2026-11-16 11:01",
-  "vivo": true,
+  "vivo": false,
   "vod": "2929448950"
  }
 }
