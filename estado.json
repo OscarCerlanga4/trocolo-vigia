@@ -61,8 +61,8 @@
  },
  "twitch/elxokas": {
   "titulo": "elxokas (live) 2026-11-16 03:04",
-  "vivo": true,
-  "vod": "2928719571"
+  "vivo": false,
+  "vod": "2929730570"
  },
  "twitch/ibai": {
   "titulo": "",
@@ -120,8 +120,8 @@
   "vod": "2929694420"
  },
  "twitch/zeling": {
-  "titulo": "Zeling (live) 2026-11-15 14:08",
-  "vivo": false,
+  "titulo": "Zeling (live) 2026-11-16 11:01",
+  "vivo": true,
   "vod": "2929448950"
  }
 }
