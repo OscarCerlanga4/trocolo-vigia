@@ -26,7 +26,7 @@
  },
  "kick/westcol": {
   "titulo": "HABLANDO DEL EVENTO 2026-11-17 03:35",
-  "vivo": true,
+  "vivo": false,
   "vod": null
  },
  "twitch/agustin51": {
@@ -56,13 +56,13 @@
  },
  "twitch/elmariana": {
   "titulo": "ElMariana (live) 2026-11-17 03:35",
-  "vivo": true,
+  "vivo": false,
   "vod": "2928109085"
  },
  "twitch/elxokas": {
   "titulo": "elxokas (live) 2026-11-17 03:35",
-  "vivo": true,
-  "vod": "2929730570"
+  "vivo": false,
+  "vod": "2930589038"
  },
  "twitch/ibai": {
   "titulo": "",
@@ -96,8 +96,8 @@
  },
  "twitch/rivers_gg": {
   "titulo": "rivers_gg (live) 2026-11-17 03:35",
-  "vivo": true,
-  "vod": "2925429036"
+  "vivo": false,
+  "vod": "2930936714"
  },
  "twitch/rubius": {
   "titulo": "Rubius (live) 2026-11-15 19:46",
@@ -120,8 +120,8 @@
   "vod": "2929694420"
  },
  "twitch/zeling": {
-  "titulo": "Zeling (live) 2026-11-16 11:01",
-  "vivo": false,
+  "titulo": "Zeling (live) 2026-11-17 12:26",
+  "vivo": true,
   "vod": "2930369262"
  }
 }
