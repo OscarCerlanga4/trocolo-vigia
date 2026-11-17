@@ -5,8 +5,8 @@
   "vod": null
  },
  "kick/coscu": {
-  "titulo": "",
-  "vivo": false,
+  "titulo": "DEFENDIENDO A MI EQUIPO Y A MI REGION 2026-11-17 21:14",
+  "vivo": true,
   "vod": null
  },
  "kick/pereira7": {
@@ -25,8 +25,8 @@
   "vod": null
  },
  "kick/westcol": {
-  "titulo": "HABLANDO DEL EVENTO 2026-11-17 03:35",
-  "vivo": false,
+  "titulo": "24 HORAS CON LA GANGA EN MEDELLIN 2026-11-17 21:14",
+  "vivo": true,
   "vod": null
  },
  "twitch/agustin51": {
@@ -50,8 +50,8 @@
   "vod": "2919587759"
  },
  "twitch/djmariio": {
-  "titulo": "DjMaRiiO (live) 2026-11-16 20:58",
-  "vivo": false,
+  "titulo": "DjMaRiiO (live) 2026-11-17 21:14",
+  "vivo": true,
   "vod": "2930644638"
  },
  "twitch/elmariana": {
@@ -60,8 +60,8 @@
   "vod": "2928109085"
  },
  "twitch/elxokas": {
-  "titulo": "elxokas (live) 2026-11-17 03:35",
-  "vivo": false,
+  "titulo": "elxokas (live) 2026-11-17 21:14",
+  "vivo": true,
   "vod": "2930589038"
  },
  "twitch/ibai": {
@@ -80,8 +80,8 @@
   "vod": "2927034006"
  },
  "twitch/knekro": {
-  "titulo": "knekro (live) 2026-11-15 23:33",
-  "vivo": false,
+  "titulo": "knekro (live) 2026-11-17 21:14",
+  "vivo": true,
   "vod": "2929687123"
  },
  "twitch/mixwell": {
@@ -100,8 +100,8 @@
   "vod": "2930936714"
  },
  "twitch/rubius": {
-  "titulo": "Rubius (live) 2026-11-15 19:46",
-  "vivo": false,
+  "titulo": "Rubius (live) 2026-11-17 21:14",
+  "vivo": true,
   "vod": "2929847999"
  },
  "twitch/thegrefg": {
@@ -121,7 +121,7 @@
  },
  "twitch/zeling": {
   "titulo": "Zeling (live) 2026-11-17 12:26",
-  "vivo": true,
-  "vod": "2930369262"
+  "vivo": false,
+  "vod": "2931266572"
  }
 }
