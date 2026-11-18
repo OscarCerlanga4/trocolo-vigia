@@ -5,8 +5,8 @@
   "vod": null
  },
  "kick/coscu": {
-  "titulo": "DEFENDIENDO A MI EQUIPO Y A MI REGION 2026-11-18 02:56",
-  "vivo": false,
+  "titulo": "DEFENDIENDO A MI EQUIPO Y A MI REGION 2026-11-18 19:27",
+  "vivo": true,
   "vod": null
  },
  "kick/pereira7": {
@@ -25,7 +25,7 @@
   "vod": null
  },
  "kick/westcol": {
-  "titulo": "24 HORAS CON LA GANGA EN MEDELLIN 2026-11-18 11:17",
+  "titulo": "48 HORAS CON LA GANGA VIVIENDO GTA VI EN LA VIDA REAL (EXCLUSIVA) 2026-11-18 19:27",
   "vivo": true,
   "vod": null
  },
@@ -35,7 +35,7 @@
   "vod": "2931534095"
  },
  "twitch/alexby11": {
-  "titulo": "Alexby11 (live) 2026-11-18 11:17",
+  "titulo": "Alexby11 (live) 2026-11-18 19:27",
   "vivo": true,
   "vod": "2929682929"
  },
@@ -50,7 +50,7 @@
   "vod": "2919587759"
  },
  "twitch/djmariio": {
-  "titulo": "DjMaRiiO (live) 2026-11-18 11:17",
+  "titulo": "DjMaRiiO (live) 2026-11-18 19:27",
   "vivo": true,
   "vod": "2930644638"
  },
@@ -70,8 +70,8 @@
   "vod": "2928776581"
  },
  "twitch/illojuan": {
-  "titulo": "IlloJuan (live) 2026-11-16 20:58",
-  "vivo": false,
+  "titulo": "IlloJuan (live) 2026-11-18 19:27",
+  "vivo": true,
   "vod": "2930700035"
  },
  "twitch/juansguarnizo": {
@@ -87,7 +87,7 @@
  "twitch/mixwell": {
   "titulo": "",
   "vivo": false,
-  "vod": "2931865035"
+  "vod": "2932386352"
  },
  "twitch/quackity": {
   "titulo": "",
@@ -100,8 +100,8 @@
   "vod": "2931903608"
  },
  "twitch/rubius": {
-  "titulo": "Rubius (live) 2026-11-17 21:14",
-  "vivo": false,
+  "titulo": "Rubius (live) 2026-11-18 19:27",
+  "vivo": true,
   "vod": "2931565552"
  },
  "twitch/thegrefg": {
@@ -112,7 +112,7 @@
  "twitch/vegetta777": {
   "titulo": "",
   "vivo": false,
-  "vod": "2929692517"
+  "vod": "2932422696"
  },
  "twitch/willyrex": {
   "titulo": "",
