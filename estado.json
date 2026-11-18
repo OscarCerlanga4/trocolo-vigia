@@ -5,7 +5,7 @@
   "vod": null
  },
  "kick/coscu": {
-  "titulo": "DEFENDIENDO A MI EQUIPO Y A MI REGION 2026-11-17 21:14",
+  "titulo": "DEFENDIENDO A MI EQUIPO Y A MI REGION 2026-11-18 02:56",
   "vivo": true,
   "vod": null
  },
@@ -20,19 +20,19 @@
   "vod": null
  },
  "kick/spreen": {
-  "titulo": "",
-  "vivo": false,
+  "titulo": "HOLA BUENAS TARDES, MAÑANA GTA VI 2026-11-18 02:56",
+  "vivo": true,
   "vod": null
  },
  "kick/westcol": {
-  "titulo": "24 HORAS CON LA GANGA EN MEDELLIN 2026-11-17 21:14",
+  "titulo": "24 HORAS CON LA GANGA EN MEDELLIN 2026-11-18 02:56",
   "vivo": true,
   "vod": null
  },
  "twitch/agustin51": {
   "titulo": "agustin51 (live) 2026-11-15 19:46",
   "vivo": false,
-  "vod": "2930572629"
+  "vod": "2931534095"
  },
  "twitch/alexby11": {
   "titulo": "",
@@ -51,17 +51,17 @@
  },
  "twitch/djmariio": {
   "titulo": "DjMaRiiO (live) 2026-11-17 21:14",
-  "vivo": true,
+  "vivo": false,
   "vod": "2930644638"
  },
  "twitch/elmariana": {
-  "titulo": "ElMariana (live) 2026-11-17 03:35",
-  "vivo": false,
+  "titulo": "ElMariana (live) 2026-11-18 02:56",
+  "vivo": true,
   "vod": "2928109085"
  },
  "twitch/elxokas": {
   "titulo": "elxokas (live) 2026-11-17 21:14",
-  "vivo": true,
+  "vivo": false,
   "vod": "2930589038"
  },
  "twitch/ibai": {
@@ -81,13 +81,13 @@
  },
  "twitch/knekro": {
   "titulo": "knekro (live) 2026-11-17 21:14",
-  "vivo": true,
-  "vod": "2929687123"
+  "vivo": false,
+  "vod": "2931513695"
  },
  "twitch/mixwell": {
   "titulo": "",
   "vivo": false,
-  "vod": "2927775651"
+  "vod": "2931865035"
  },
  "twitch/quackity": {
   "titulo": "",
@@ -95,14 +95,14 @@
   "vod": "2929015069"
  },
  "twitch/rivers_gg": {
-  "titulo": "rivers_gg (live) 2026-11-17 03:35",
-  "vivo": false,
+  "titulo": "rivers_gg (live) 2026-11-18 02:56",
+  "vivo": true,
   "vod": "2930936714"
  },
  "twitch/rubius": {
   "titulo": "Rubius (live) 2026-11-17 21:14",
-  "vivo": true,
-  "vod": "2929847999"
+  "vivo": false,
+  "vod": "2931565552"
  },
  "twitch/thegrefg": {
   "titulo": "",
