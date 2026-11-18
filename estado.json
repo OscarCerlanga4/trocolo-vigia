@@ -6,7 +6,7 @@
  },
  "kick/coscu": {
   "titulo": "DEFENDIENDO A MI EQUIPO Y A MI REGION 2026-11-18 02:56",
-  "vivo": true,
+  "vivo": false,
   "vod": null
  },
  "kick/pereira7": {
@@ -21,11 +21,11 @@
  },
  "kick/spreen": {
   "titulo": "HOLA BUENAS TARDES, MAÑANA GTA VI 2026-11-18 02:56",
-  "vivo": true,
+  "vivo": false,
   "vod": null
  },
  "kick/westcol": {
-  "titulo": "24 HORAS CON LA GANGA EN MEDELLIN 2026-11-18 02:56",
+  "titulo": "24 HORAS CON LA GANGA EN MEDELLIN 2026-11-18 11:17",
   "vivo": true,
   "vod": null
  },
@@ -35,8 +35,8 @@
   "vod": "2931534095"
  },
  "twitch/alexby11": {
-  "titulo": "",
-  "vivo": false,
+  "titulo": "Alexby11 (live) 2026-11-18 11:17",
+  "vivo": true,
   "vod": "2929682929"
  },
  "twitch/auronplay": {
@@ -50,19 +50,19 @@
   "vod": "2919587759"
  },
  "twitch/djmariio": {
-  "titulo": "DjMaRiiO (live) 2026-11-17 21:14",
-  "vivo": false,
+  "titulo": "DjMaRiiO (live) 2026-11-18 11:17",
+  "vivo": true,
   "vod": "2930644638"
  },
  "twitch/elmariana": {
   "titulo": "ElMariana (live) 2026-11-18 02:56",
-  "vivo": true,
-  "vod": "2928109085"
+  "vivo": false,
+  "vod": "2931866084"
  },
  "twitch/elxokas": {
   "titulo": "elxokas (live) 2026-11-17 21:14",
   "vivo": false,
-  "vod": "2930589038"
+  "vod": "2931506218"
  },
  "twitch/ibai": {
   "titulo": "",
@@ -96,8 +96,8 @@
  },
  "twitch/rivers_gg": {
   "titulo": "rivers_gg (live) 2026-11-18 02:56",
-  "vivo": true,
-  "vod": "2930936714"
+  "vivo": false,
+  "vod": "2931903608"
  },
  "twitch/rubius": {
   "titulo": "Rubius (live) 2026-11-17 21:14",
@@ -107,7 +107,7 @@
  "twitch/thegrefg": {
   "titulo": "",
   "vivo": false,
-  "vod": "2928836093"
+  "vod": "2931865590"
  },
  "twitch/vegetta777": {
   "titulo": "",
