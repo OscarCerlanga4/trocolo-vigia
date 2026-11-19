@@ -5,7 +5,7 @@
   "vod": null
  },
  "kick/coscu": {
-  "titulo": "SCRIMS THE TURDS 2026-11-19 01:22",
+  "titulo": "DUO @FIX10 TODA LA NOCHE SACADAMENTE 2026-11-19 09:08",
   "vivo": true,
   "vod": null
  },
@@ -20,7 +20,7 @@
   "vod": null
  },
  "kick/spreen": {
-  "titulo": "GTA VI 2026-11-19 01:22",
+  "titulo": "GTA VI 2026-11-19 09:08",
   "vivo": true,
   "vod": null
  },
@@ -31,8 +31,8 @@
  },
  "twitch/agustin51": {
   "titulo": "agustin51 (live) 2026-11-19 01:22",
-  "vivo": true,
-  "vod": "2931534095"
+  "vivo": false,
+  "vod": "2932738502"
  },
  "twitch/alexby11": {
   "titulo": "Alexby11 (live) 2026-11-18 19:27",
@@ -41,7 +41,7 @@
  },
  "twitch/auronplay": {
   "titulo": "auronplay (live) 2026-11-19 01:22",
-  "vivo": true,
+  "vivo": false,
   "vod": "2927869790"
  },
  "twitch/cristinini": {
@@ -51,8 +51,8 @@
  },
  "twitch/djmariio": {
   "titulo": "DjMaRiiO (live) 2026-11-19 01:22",
-  "vivo": true,
-  "vod": "2930644638"
+  "vivo": false,
+  "vod": "2932168999"
  },
  "twitch/elmariana": {
   "titulo": "ElMariana (live) 2026-11-18 02:56",
@@ -71,7 +71,7 @@
  },
  "twitch/illojuan": {
   "titulo": "IlloJuan (live) 2026-11-19 01:22",
-  "vivo": true,
+  "vivo": false,
   "vod": "2930700035"
  },
  "twitch/juansguarnizo": {
@@ -95,8 +95,8 @@
   "vod": "2932346022"
  },
  "twitch/rivers_gg": {
-  "titulo": "rivers_gg (live) 2026-11-18 02:56",
-  "vivo": false,
+  "titulo": "rivers_gg (live) 2026-11-19 09:08",
+  "vivo": true,
   "vod": "2931903608"
  },
  "twitch/rubius": {
