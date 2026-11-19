@@ -5,7 +5,7 @@
   "vod": null
  },
  "kick/coscu": {
-  "titulo": "DEFENDIENDO A MI EQUIPO Y A MI REGION 2026-11-18 19:27",
+  "titulo": "SCRIMS THE TURDS 2026-11-19 01:22",
   "vivo": true,
   "vod": null
  },
@@ -20,28 +20,28 @@
   "vod": null
  },
  "kick/spreen": {
-  "titulo": "HOLA BUENAS TARDES, MAÑANA GTA VI 2026-11-18 02:56",
-  "vivo": false,
+  "titulo": "GTA VI 2026-11-19 01:22",
+  "vivo": true,
   "vod": null
  },
  "kick/westcol": {
   "titulo": "48 HORAS CON LA GANGA VIVIENDO GTA VI EN LA VIDA REAL (EXCLUSIVA) 2026-11-18 19:27",
-  "vivo": true,
+  "vivo": false,
   "vod": null
  },
  "twitch/agustin51": {
-  "titulo": "agustin51 (live) 2026-11-15 19:46",
-  "vivo": false,
+  "titulo": "agustin51 (live) 2026-11-19 01:22",
+  "vivo": true,
   "vod": "2931534095"
  },
  "twitch/alexby11": {
   "titulo": "Alexby11 (live) 2026-11-18 19:27",
-  "vivo": true,
+  "vivo": false,
   "vod": "2929682929"
  },
  "twitch/auronplay": {
-  "titulo": "",
-  "vivo": false,
+  "titulo": "auronplay (live) 2026-11-19 01:22",
+  "vivo": true,
   "vod": "2927869790"
  },
  "twitch/cristinini": {
@@ -50,7 +50,7 @@
   "vod": "2919587759"
  },
  "twitch/djmariio": {
-  "titulo": "DjMaRiiO (live) 2026-11-18 19:27",
+  "titulo": "DjMaRiiO (live) 2026-11-19 01:22",
   "vivo": true,
   "vod": "2930644638"
  },
@@ -70,7 +70,7 @@
   "vod": "2928776581"
  },
  "twitch/illojuan": {
-  "titulo": "IlloJuan (live) 2026-11-18 19:27",
+  "titulo": "IlloJuan (live) 2026-11-19 01:22",
   "vivo": true,
   "vod": "2930700035"
  },
@@ -92,7 +92,7 @@
  "twitch/quackity": {
   "titulo": "",
   "vivo": false,
-  "vod": "2929015069"
+  "vod": "2932346022"
  },
  "twitch/rivers_gg": {
   "titulo": "rivers_gg (live) 2026-11-18 02:56",
@@ -101,13 +101,13 @@
  },
  "twitch/rubius": {
   "titulo": "Rubius (live) 2026-11-18 19:27",
-  "vivo": true,
-  "vod": "2931565552"
+  "vivo": false,
+  "vod": "2932415021"
  },
  "twitch/thegrefg": {
   "titulo": "",
   "vivo": false,
-  "vod": "2931865590"
+  "vod": "2932646051"
  },
  "twitch/vegetta777": {
   "titulo": "",
