@@ -6,7 +6,7 @@
  },
  "kick/coscu": {
   "titulo": "SCRIMS THE TURDS 2026-11-20 00:41",
-  "vivo": true,
+  "vivo": false,
   "vod": null
  },
  "kick/pereira7": {
@@ -15,24 +15,24 @@
   "vod": null
  },
  "kick/robleis": {
-  "titulo": "",
-  "vivo": false,
+  "titulo": "GTA VI #2 🌴⭐ ROBLOX ⭐ IRL ⭐ CONTENT ⭐ ARREGLE TODO JEJE ⭐ 2026-11-20 07:49",
+  "vivo": true,
   "vod": null
  },
  "kick/spreen": {
-  "titulo": "HOY DE NUEVO GTA VI 2026-11-20 00:41",
+  "titulo": "HOY DE NUEVO GTA VI 2026-11-20 07:49",
   "vivo": true,
   "vod": null
  },
  "kick/westcol": {
   "titulo": "GTA VI AHORA SI ENSERIO 2026-11-20 00:41",
-  "vivo": true,
+  "vivo": false,
   "vod": null
  },
  "twitch/agustin51": {
   "titulo": "agustin51 (live) 2026-11-20 00:41",
-  "vivo": true,
-  "vod": "2932738502"
+  "vivo": false,
+  "vod": "2934271037"
  },
  "twitch/alexby11": {
   "titulo": "Alexby11 (live) 2026-11-19 18:14",
@@ -51,12 +51,12 @@
  },
  "twitch/djmariio": {
   "titulo": "DjMaRiiO (live) 2026-11-20 00:41",
-  "vivo": true,
+  "vivo": false,
   "vod": "2932168999"
  },
  "twitch/elmariana": {
   "titulo": "ElMariana (live) 2026-11-20 00:41",
-  "vivo": true,
+  "vivo": false,
   "vod": "2931866084"
  },
  "twitch/elxokas": {
@@ -71,7 +71,7 @@
  },
  "twitch/illojuan": {
   "titulo": "IlloJuan (live) 2026-11-20 00:41",
-  "vivo": true,
+  "vivo": false,
   "vod": "2930700035"
  },
  "twitch/juansguarnizo": {
@@ -96,12 +96,12 @@
  },
  "twitch/rivers_gg": {
   "titulo": "rivers_gg (live) 2026-11-20 00:41",
-  "vivo": true,
-  "vod": "2933360756"
+  "vivo": false,
+  "vod": "2934359486"
  },
  "twitch/rubius": {
   "titulo": "Rubius (live) 2026-11-20 00:41",
-  "vivo": true,
+  "vivo": false,
   "vod": "2932415021"
  },
  "twitch/thegrefg": {
