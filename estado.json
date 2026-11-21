@@ -6,7 +6,7 @@
  },
  "kick/coscu": {
   "titulo": "SCRIMS THE TURDS 2026-11-21 03:33",
-  "vivo": true,
+  "vivo": false,
   "vod": null
  },
  "kick/pereira7": {
@@ -16,16 +16,16 @@
  },
  "kick/robleis": {
   "titulo": "HOY PAJEAMOS AL OCEANO 2026-11-21 03:33",
-  "vivo": true,
+  "vivo": false,
   "vod": null
  },
  "kick/spreen": {
   "titulo": "🛑 HOY DE NUEVO GTA VI 🛑 SORTEOS Y SORPRESAS 🛑 2026-11-21 03:33",
-  "vivo": true,
+  "vivo": false,
   "vod": null
  },
  "kick/westcol": {
-  "titulo": "72 GANGAS CON LAS HORAS, QUE PASO ANTIER? 2026-11-21 03:33",
+  "titulo": "72 GANGAS CON LAS HORAS, QUE PASO ANTIER? 2026-11-21 11:44",
   "vivo": true,
   "vod": null
  },
@@ -56,7 +56,7 @@
  },
  "twitch/elmariana": {
   "titulo": "ElMariana (live) 2026-11-21 03:33",
-  "vivo": true,
+  "vivo": false,
   "vod": "2933975583"
  },
  "twitch/elxokas": {
@@ -96,8 +96,8 @@
  },
  "twitch/rivers_gg": {
   "titulo": "rivers_gg (live) 2026-11-21 03:33",
-  "vivo": true,
-  "vod": "2934359486"
+  "vivo": false,
+  "vod": "2935554996"
  },
  "twitch/rubius": {
   "titulo": "Rubius (live) 2026-11-20 22:45",
@@ -106,8 +106,8 @@
  },
  "twitch/thegrefg": {
   "titulo": "TheGrefg (live) 2026-11-21 03:33",
-  "vivo": true,
-  "vod": "2933986329"
+  "vivo": false,
+  "vod": "2935615599"
  },
  "twitch/vegetta777": {
   "titulo": "VEGETTA777 (live) 2026-11-20 16:26",
