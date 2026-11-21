@@ -25,7 +25,7 @@
   "vod": null
  },
  "kick/westcol": {
-  "titulo": "72 GANGAS CON LAS HORAS, QUE PASO ANTIER? 2026-11-21 11:44",
+  "titulo": "72 GANGAS CON LAS HORAS, QUE PASO ANTIER? 2026-11-21 18:16",
   "vivo": true,
   "vod": null
  },
@@ -35,13 +35,13 @@
   "vod": "2934847708"
  },
  "twitch/alexby11": {
-  "titulo": "Alexby11 (live) 2026-11-20 16:26",
-  "vivo": false,
+  "titulo": "Alexby11 (live) 2026-11-21 18:16",
+  "vivo": true,
   "vod": "2934869841"
  },
  "twitch/auronplay": {
-  "titulo": "auronplay (live) 2026-11-20 16:26",
-  "vivo": false,
+  "titulo": "auronplay (live) 2026-11-21 18:16",
+  "vivo": true,
   "vod": "2934943615"
  },
  "twitch/cristinini": {
@@ -50,8 +50,8 @@
   "vod": "2934124305"
  },
  "twitch/djmariio": {
-  "titulo": "DjMaRiiO (live) 2026-11-20 22:45",
-  "vivo": false,
+  "titulo": "DjMaRiiO (live) 2026-11-21 18:16",
+  "vivo": true,
   "vod": "2934952136"
  },
  "twitch/elmariana": {
@@ -60,8 +60,8 @@
   "vod": "2933975583"
  },
  "twitch/elxokas": {
-  "titulo": "elxokas (live) 2026-11-17 21:14",
-  "vivo": false,
+  "titulo": "elxokas (live) 2026-11-21 18:16",
+  "vivo": true,
   "vod": "2931506218"
  },
  "twitch/ibai": {
@@ -75,18 +75,18 @@
   "vod": "2935071086"
  },
  "twitch/juansguarnizo": {
-  "titulo": "juansguarnizo (live) 2026-11-20 22:45",
-  "vivo": false,
+  "titulo": "juansguarnizo (live) 2026-11-21 18:16",
+  "vivo": true,
   "vod": "2935109580"
  },
  "twitch/knekro": {
-  "titulo": "knekro (live) 2026-11-20 16:26",
-  "vivo": false,
+  "titulo": "knekro (live) 2026-11-21 18:16",
+  "vivo": true,
   "vod": "2934846837"
  },
  "twitch/mixwell": {
-  "titulo": "Mixwell (live) 2026-11-20 16:26",
-  "vivo": false,
+  "titulo": "Mixwell (live) 2026-11-21 18:16",
+  "vivo": true,
   "vod": "2935010812"
  },
  "twitch/quackity": {
@@ -110,8 +110,8 @@
   "vod": "2935615599"
  },
  "twitch/vegetta777": {
-  "titulo": "VEGETTA777 (live) 2026-11-20 16:26",
-  "vivo": false,
+  "titulo": "VEGETTA777 (live) 2026-11-21 18:16",
+  "vivo": true,
   "vod": "2934951578"
  },
  "twitch/willyrex": {
