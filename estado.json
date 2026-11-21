@@ -5,8 +5,8 @@
   "vod": null
  },
  "kick/coscu": {
-  "titulo": "SCRIMS THE TURDS 2026-11-21 03:33",
-  "vivo": false,
+  "titulo": "ENTRENANDO CON EL EQUIPO - 7 DIAS PARA ESPAÑA 2026-11-21 23:27",
+  "vivo": true,
   "vod": null
  },
  "kick/pereira7": {
@@ -25,7 +25,7 @@
   "vod": null
  },
  "kick/westcol": {
-  "titulo": "72 GANGAS CON LAS HORAS, QUE PASO ANTIER? 2026-11-21 18:16",
+  "titulo": "72 GANGAS CON LAS HORAS, QUE PASO ANTIER? 2026-11-21 23:27",
   "vivo": true,
   "vod": null
  },
@@ -36,21 +36,21 @@
  },
  "twitch/alexby11": {
   "titulo": "Alexby11 (live) 2026-11-21 18:16",
-  "vivo": true,
-  "vod": "2934869841"
+  "vivo": false,
+  "vod": "2936134982"
  },
  "twitch/auronplay": {
   "titulo": "auronplay (live) 2026-11-21 18:16",
-  "vivo": true,
-  "vod": "2934943615"
+  "vivo": false,
+  "vod": "2936129297"
  },
  "twitch/cristinini": {
-  "titulo": "",
-  "vivo": false,
+  "titulo": "Cristinini (live) 2026-11-21 23:27",
+  "vivo": true,
   "vod": "2934124305"
  },
  "twitch/djmariio": {
-  "titulo": "DjMaRiiO (live) 2026-11-21 18:16",
+  "titulo": "DjMaRiiO (live) 2026-11-21 23:27",
   "vivo": true,
   "vod": "2934952136"
  },
@@ -60,7 +60,7 @@
   "vod": "2933975583"
  },
  "twitch/elxokas": {
-  "titulo": "elxokas (live) 2026-11-21 18:16",
+  "titulo": "elxokas (live) 2026-11-21 23:27",
   "vivo": true,
   "vod": "2931506218"
  },
@@ -75,19 +75,19 @@
   "vod": "2935071086"
  },
  "twitch/juansguarnizo": {
-  "titulo": "juansguarnizo (live) 2026-11-21 18:16",
+  "titulo": "juansguarnizo (live) 2026-11-21 23:27",
   "vivo": true,
   "vod": "2935109580"
  },
  "twitch/knekro": {
   "titulo": "knekro (live) 2026-11-21 18:16",
-  "vivo": true,
+  "vivo": false,
   "vod": "2934846837"
  },
  "twitch/mixwell": {
   "titulo": "Mixwell (live) 2026-11-21 18:16",
-  "vivo": true,
-  "vod": "2935010812"
+  "vivo": false,
+  "vod": "2936361968"
  },
  "twitch/quackity": {
   "titulo": "",
@@ -105,13 +105,13 @@
   "vod": "2935100343"
  },
  "twitch/thegrefg": {
-  "titulo": "TheGrefg (live) 2026-11-21 03:33",
-  "vivo": false,
+  "titulo": "TheGrefg (live) 2026-11-21 23:27",
+  "vivo": true,
   "vod": "2935615599"
  },
  "twitch/vegetta777": {
   "titulo": "VEGETTA777 (live) 2026-11-21 18:16",
-  "vivo": true,
+  "vivo": false,
   "vod": "2934951578"
  },
  "twitch/willyrex": {
