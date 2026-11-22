@@ -6,7 +6,7 @@
  },
  "kick/coscu": {
   "titulo": "ENTRENANDO CON EL EQUIPO - 7 DIAS PARA ESPAÑA 2026-11-22 03:23",
-  "vivo": true,
+  "vivo": false,
   "vod": null
  },
  "kick/pereira7": {
@@ -16,7 +16,7 @@
  },
  "kick/robleis": {
   "titulo": "EL TOKEN DE FORTNITE... después terror. 2026-11-22 03:23",
-  "vivo": true,
+  "vivo": false,
   "vod": null
  },
  "kick/spreen": {
@@ -25,7 +25,7 @@
   "vod": null
  },
  "kick/westcol": {
-  "titulo": "72 GANGAS CON LAS HORAS, QUE PASO ANTIER? 2026-11-22 03:23",
+  "titulo": "72 GANGAS CON LAS HORAS, QUE PASO ANTIER? 2026-11-22 11:48",
   "vivo": true,
   "vod": null
  },
@@ -61,8 +61,8 @@
  },
  "twitch/elxokas": {
   "titulo": "elxokas (live) 2026-11-22 03:23",
-  "vivo": true,
-  "vod": "2931506218"
+  "vivo": false,
+  "vod": "2936251647"
  },
  "twitch/ibai": {
   "titulo": "",
@@ -82,7 +82,7 @@
  "twitch/knekro": {
   "titulo": "knekro (live) 2026-11-21 18:16",
   "vivo": false,
-  "vod": "2934846837"
+  "vod": "2936048934"
  },
  "twitch/mixwell": {
   "titulo": "Mixwell (live) 2026-11-21 18:16",
@@ -120,8 +120,8 @@
   "vod": "2929694420"
  },
  "twitch/zeling": {
-  "titulo": "Zeling (live) 2026-11-17 12:26",
-  "vivo": false,
+  "titulo": "Zeling (live) 2026-11-22 11:48",
+  "vivo": true,
   "vod": "2931266572"
  }
 }
