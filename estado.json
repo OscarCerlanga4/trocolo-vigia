@@ -20,37 +20,37 @@
   "vod": null
  },
  "kick/spreen": {
-  "titulo": "🛑 HOY DE NUEVO GTA VI 🛑 SORTEOS Y SORPRESAS 🛑 2026-11-21 03:33",
-  "vivo": false,
+  "titulo": "🛑 DOMINGO 🛑 HOY DE NUEVO GTA VI 🛑 SORTEOS Y SORPRESAS 🛑 2026-11-22 23:54",
+  "vivo": true,
   "vod": null
  },
  "kick/westcol": {
   "titulo": "72 GANGAS CON LAS HORAS, QUE PASO ANTIER? 2026-11-22 18:41",
-  "vivo": true,
+  "vivo": false,
   "vod": null
  },
  "twitch/agustin51": {
   "titulo": "agustin51 (live) 2026-11-22 18:41",
-  "vivo": true,
+  "vivo": false,
   "vod": "2934847708"
  },
  "twitch/alexby11": {
-  "titulo": "Alexby11 (live) 2026-11-22 18:41",
+  "titulo": "Alexby11 (live) 2026-11-22 23:54",
   "vivo": true,
   "vod": "2936134982"
  },
  "twitch/auronplay": {
   "titulo": "auronplay (live) 2026-11-22 18:41",
-  "vivo": true,
-  "vod": "2936129297"
+  "vivo": false,
+  "vod": "2937333836"
  },
  "twitch/cristinini": {
-  "titulo": "Cristinini (live) 2026-11-21 23:27",
-  "vivo": false,
+  "titulo": "Cristinini (live) 2026-11-22 23:54",
+  "vivo": true,
   "vod": "2936459869"
  },
  "twitch/djmariio": {
-  "titulo": "DjMaRiiO (live) 2026-11-22 18:41",
+  "titulo": "DjMaRiiO (live) 2026-11-22 23:54",
   "vivo": true,
   "vod": "2936216605"
  },
@@ -70,24 +70,24 @@
   "vod": "2928776581"
  },
  "twitch/illojuan": {
-  "titulo": "IlloJuan (live) 2026-11-22 18:41",
+  "titulo": "IlloJuan (live) 2026-11-22 23:53",
   "vivo": true,
   "vod": "2935071086"
  },
  "twitch/juansguarnizo": {
-  "titulo": "juansguarnizo (live) 2026-11-22 18:41",
+  "titulo": "juansguarnizo (live) 2026-11-22 23:53",
   "vivo": true,
   "vod": "2936298651"
  },
  "twitch/knekro": {
-  "titulo": "knekro (live) 2026-11-22 18:41",
+  "titulo": "knekro (live) 2026-11-22 23:53",
   "vivo": true,
   "vod": "2936048934"
  },
  "twitch/mixwell": {
   "titulo": "Mixwell (live) 2026-11-22 18:41",
-  "vivo": true,
-  "vod": "2936361968"
+  "vivo": false,
+  "vod": "2937551361"
  },
  "twitch/quackity": {
   "titulo": "",
@@ -100,7 +100,7 @@
   "vod": "2935554996"
  },
  "twitch/rubius": {
-  "titulo": "Rubius (live) 2026-11-22 18:41",
+  "titulo": "Rubius (live) 2026-11-22 23:53",
   "vivo": true,
   "vod": "2935100343"
  },
@@ -111,13 +111,13 @@
  },
  "twitch/vegetta777": {
   "titulo": "VEGETTA777 (live) 2026-11-22 18:41",
-  "vivo": true,
-  "vod": "2936152235"
+  "vivo": false,
+  "vod": "2937332499"
  },
  "twitch/willyrex": {
   "titulo": "",
   "vivo": false,
-  "vod": "2929694420"
+  "vod": "2937354338"
  },
  "twitch/zeling": {
   "titulo": "Zeling (live) 2026-11-22 11:48",
