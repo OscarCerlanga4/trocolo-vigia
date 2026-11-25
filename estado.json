@@ -21,7 +21,7 @@
  },
  "kick/spreen": {
   "titulo": "🛑 BUENOS DIAS 🛑 2026-11-25 05:29",
-  "vivo": true,
+  "vivo": false,
   "vod": null
  },
  "kick/westcol": {
@@ -40,8 +40,8 @@
   "vod": "2938467408"
  },
  "twitch/auronplay": {
-  "titulo": "auronplay (live) 2026-11-23 16:32",
-  "vivo": false,
+  "titulo": "auronplay (live) 2026-11-25 15:58",
+  "vivo": true,
   "vod": "2938386346"
  },
  "twitch/cristinini": {
@@ -50,8 +50,8 @@
   "vod": "2939657396"
  },
  "twitch/djmariio": {
-  "titulo": "DjMaRiiO (live) 2026-11-24 23:15",
-  "vivo": false,
+  "titulo": "DjMaRiiO (live) 2026-11-25 15:58",
+  "vivo": true,
   "vod": "2939368890"
  },
  "twitch/elmariana": {
@@ -102,7 +102,7 @@
  "twitch/rubius": {
   "titulo": "Rubius (live) 2026-11-24 23:15",
   "vivo": false,
-  "vod": "2938666621"
+  "vod": "2939504674"
  },
  "twitch/thegrefg": {
   "titulo": "TheGrefg (live) 2026-11-24 03:02",
@@ -110,8 +110,8 @@
   "vod": "2939605097"
  },
  "twitch/vegetta777": {
-  "titulo": "VEGETTA777 (live) 2026-11-23 16:32",
-  "vivo": false,
+  "titulo": "VEGETTA777 (live) 2026-11-25 15:58",
+  "vivo": true,
   "vod": "2939371832"
  },
  "twitch/willyrex": {
