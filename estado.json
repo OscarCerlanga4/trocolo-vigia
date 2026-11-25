@@ -6,7 +6,7 @@
  },
  "kick/coscu": {
   "titulo": "ENTRENANDO CON EL EQUIPO - 5 DIAS PARA ESPAÑA 2026-11-24 23:15",
-  "vivo": true,
+  "vivo": false,
   "vod": null
  },
  "kick/pereira7": {
@@ -20,7 +20,7 @@
   "vod": null
  },
  "kick/spreen": {
-  "titulo": "🛑 BUENOS DIAS 🛑 2026-11-24 23:15",
+  "titulo": "🛑 BUENOS DIAS 🛑 2026-11-25 05:29",
   "vivo": true,
   "vod": null
  },
@@ -46,23 +46,23 @@
  },
  "twitch/cristinini": {
   "titulo": "Cristinini (live) 2026-11-24 23:15",
-  "vivo": true,
-  "vod": "2938654430"
+  "vivo": false,
+  "vod": "2939657396"
  },
  "twitch/djmariio": {
   "titulo": "DjMaRiiO (live) 2026-11-24 23:15",
-  "vivo": true,
-  "vod": "2938378778"
+  "vivo": false,
+  "vod": "2939368890"
  },
  "twitch/elmariana": {
   "titulo": "ElMariana (live) 2026-11-24 03:02",
   "vivo": false,
-  "vod": "2933975583"
+  "vod": "2938844374"
  },
  "twitch/elxokas": {
   "titulo": "elxokas (live) 2026-11-24 23:15",
-  "vivo": true,
-  "vod": "2936251647"
+  "vivo": false,
+  "vod": "2939487232"
  },
  "twitch/ibai": {
   "titulo": "",
@@ -76,8 +76,8 @@
  },
  "twitch/juansguarnizo": {
   "titulo": "juansguarnizo (live) 2026-11-24 23:15",
-  "vivo": true,
-  "vod": "2938621669"
+  "vivo": false,
+  "vod": "2939508437"
  },
  "twitch/knekro": {
   "titulo": "knekro (live) 2026-11-23 16:32",
@@ -97,11 +97,11 @@
  "twitch/rivers_gg": {
   "titulo": "rivers_gg (live) 2026-11-24 03:02",
   "vivo": false,
-  "vod": "2938911908"
+  "vod": "2939842964"
  },
  "twitch/rubius": {
   "titulo": "Rubius (live) 2026-11-24 23:15",
-  "vivo": true,
+  "vivo": false,
   "vod": "2938666621"
  },
  "twitch/thegrefg": {
