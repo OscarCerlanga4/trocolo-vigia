@@ -5,7 +5,7 @@
   "vod": null
  },
  "kick/coscu": {
-  "titulo": "ENTRENANDO CON EL EQUIPO - 4 DIAS PARA ESPAÑA 2026-11-26 00:08",
+  "titulo": "ENTRENANDO CON EL EQUIPO - 4 DIAS PARA ESPAÑA 2026-11-26 08:10",
   "vivo": true,
   "vod": null
  },
@@ -16,12 +16,12 @@
  },
  "kick/robleis": {
   "titulo": "FAILROOMS Y JUEGO DE TERROR 💀 DISCORD 💀 2026-11-26 00:08",
-  "vivo": true,
+  "vivo": false,
   "vod": null
  },
  "kick/spreen": {
   "titulo": "🚧 🌴 HOY LE METEMOS AL GTA VI 🌴 🚧 65% 2026-11-26 00:08",
-  "vivo": true,
+  "vivo": false,
   "vod": null
  },
  "kick/westcol": {
@@ -51,8 +51,8 @@
  },
  "twitch/djmariio": {
   "titulo": "DjMaRiiO (live) 2026-11-26 00:08",
-  "vivo": true,
-  "vod": "2939368890"
+  "vivo": false,
+  "vod": "2940407360"
  },
  "twitch/elmariana": {
   "titulo": "ElMariana (live) 2026-11-24 03:02",
@@ -71,18 +71,18 @@
  },
  "twitch/illojuan": {
   "titulo": "IlloJuan (live) 2026-11-26 00:08",
-  "vivo": true,
-  "vod": "2938510132"
+  "vivo": false,
+  "vod": "2940424560"
  },
  "twitch/juansguarnizo": {
   "titulo": "juansguarnizo (live) 2026-11-26 00:08",
-  "vivo": true,
-  "vod": "2939508437"
+  "vivo": false,
+  "vod": "2940526156"
  },
  "twitch/knekro": {
   "titulo": "knekro (live) 2026-11-26 00:08",
-  "vivo": true,
-  "vod": "2938853834"
+  "vivo": false,
+  "vod": "2940425772"
  },
  "twitch/mixwell": {
   "titulo": "Mixwell (live) 2026-11-22 18:41",
@@ -101,13 +101,13 @@
  },
  "twitch/rubius": {
   "titulo": "Rubius (live) 2026-11-26 00:08",
-  "vivo": true,
-  "vod": "2939504674"
+  "vivo": false,
+  "vod": "2940532060"
  },
  "twitch/thegrefg": {
   "titulo": "TheGrefg (live) 2026-11-26 00:08",
-  "vivo": true,
-  "vod": "2939605097"
+  "vivo": false,
+  "vod": "2940744555"
  },
  "twitch/vegetta777": {
   "titulo": "VEGETTA777 (live) 2026-11-25 15:58",
