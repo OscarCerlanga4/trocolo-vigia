@@ -6,7 +6,7 @@
  },
  "kick/coscu": {
   "titulo": "NUEVA SERIE DUO YUYOS HASTA CHALLENGER - 2 DIAS PARA ESPAÑA 2026-11-27 01:54",
-  "vivo": true,
+  "vivo": false,
   "vod": null
  },
  "kick/pereira7": {
@@ -16,7 +16,7 @@
  },
  "kick/robleis": {
   "titulo": "TRITURANDO 1 BILLÓN DE DOLARES EN ESTE STREAM 🤑💵 2026-11-27 01:54",
-  "vivo": true,
+  "vivo": false,
   "vod": null
  },
  "kick/spreen": {
@@ -26,7 +26,7 @@
  },
  "kick/westcol": {
   "titulo": "10 HORITAS EN EL SETEO RESCATANDO GTA VI 2026-11-27 01:54",
-  "vivo": true,
+  "vivo": false,
   "vod": null
  },
  "twitch/agustin51": {
@@ -52,11 +52,11 @@
  "twitch/djmariio": {
   "titulo": "DjMaRiiO (live) 2026-11-26 18:29",
   "vivo": false,
-  "vod": "2940407360"
+  "vod": "2941378225"
  },
  "twitch/elmariana": {
   "titulo": "ElMariana (live) 2026-11-27 01:54",
-  "vivo": true,
+  "vivo": false,
   "vod": "2938844374"
  },
  "twitch/elxokas": {
@@ -71,13 +71,13 @@
  },
  "twitch/illojuan": {
   "titulo": "IlloJuan (live) 2026-11-27 01:54",
-  "vivo": true,
-  "vod": "2940424560"
+  "vivo": false,
+  "vod": "2941530066"
  },
  "twitch/juansguarnizo": {
   "titulo": "juansguarnizo (live) 2026-11-27 01:54",
-  "vivo": true,
-  "vod": "2940526156"
+  "vivo": false,
+  "vod": "2941483018"
  },
  "twitch/knekro": {
   "titulo": "knekro (live) 2026-11-26 18:29",
@@ -101,18 +101,18 @@
  },
  "twitch/rubius": {
   "titulo": "Rubius (live) 2026-11-27 01:54",
-  "vivo": true,
-  "vod": "2940532060"
+  "vivo": false,
+  "vod": "2941531941"
  },
  "twitch/thegrefg": {
   "titulo": "TheGrefg (live) 2026-11-27 01:54",
-  "vivo": true,
-  "vod": "2940744555"
+  "vivo": false,
+  "vod": "2941708106"
  },
  "twitch/vegetta777": {
   "titulo": "VEGETTA777 (live) 2026-11-26 18:29",
   "vivo": false,
-  "vod": "2940355620"
+  "vod": "2941351061"
  },
  "twitch/willyrex": {
   "titulo": "",
@@ -120,8 +120,8 @@
   "vod": "2937354338"
  },
  "twitch/zeling": {
-  "titulo": "Zeling (live) 2026-11-24 13:34",
-  "vivo": false,
+  "titulo": "Zeling (live) 2026-11-27 10:31",
+  "vivo": true,
   "vod": "2941189154"
  }
 }
