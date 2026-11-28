@@ -15,8 +15,8 @@
   "vod": null
  },
  "kick/robleis": {
-  "titulo": "TRITURANDO 1 BILLÓN DE DOLARES EN ESTE STREAM 🤑💵 2026-11-27 01:54",
-  "vivo": false,
+  "titulo": "🧠 TEST DE IQ CON TATATITO 🧠 TERROR 🧠 ARACNOFOBIA 🧠 2026-11-28 02:10",
+  "vivo": true,
   "vod": null
  },
  "kick/spreen": {
@@ -47,12 +47,12 @@
  "twitch/cristinini": {
   "titulo": "Cristinini (live) 2026-11-24 23:15",
   "vivo": false,
-  "vod": "2939657396"
+  "vod": "2942547224"
  },
  "twitch/djmariio": {
   "titulo": "DjMaRiiO (live) 2026-11-27 19:38",
-  "vivo": true,
-  "vod": "2941378225"
+  "vivo": false,
+  "vod": "2942278761"
  },
  "twitch/elmariana": {
   "titulo": "ElMariana (live) 2026-11-27 01:54",
@@ -60,7 +60,7 @@
   "vod": "2938844374"
  },
  "twitch/elxokas": {
-  "titulo": "elxokas (live) 2026-11-27 19:38",
+  "titulo": "elxokas (live) 2026-11-28 02:10",
   "vivo": true,
   "vod": "2939487232"
  },
@@ -76,13 +76,13 @@
  },
  "twitch/juansguarnizo": {
   "titulo": "juansguarnizo (live) 2026-11-27 19:38",
-  "vivo": true,
-  "vod": "2941483018"
+  "vivo": false,
+  "vod": "2942419839"
  },
  "twitch/knekro": {
   "titulo": "knekro (live) 2026-11-27 19:38",
-  "vivo": true,
-  "vod": "2941394463"
+  "vivo": false,
+  "vod": "2942282150"
  },
  "twitch/mixwell": {
   "titulo": "Mixwell (live) 2026-11-22 18:41",
@@ -97,7 +97,7 @@
  "twitch/rivers_gg": {
   "titulo": "rivers_gg (live) 2026-11-24 03:02",
   "vivo": false,
-  "vod": "2941702713"
+  "vod": "2942718124"
  },
  "twitch/rubius": {
   "titulo": "Rubius (live) 2026-11-27 01:54",
