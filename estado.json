@@ -5,8 +5,8 @@
   "vod": null
  },
  "kick/coscu": {
-  "titulo": "NUEVA SERIE DUO YUYOS HASTA CHALLENGER - 2 DIAS PARA ESPAÑA 2026-11-27 01:54",
-  "vivo": false,
+  "titulo": "DUO @Yuyos1 HASTA IRME A ESPAÑA - !TLS 2026-11-28 10:25",
+  "vivo": true,
   "vod": null
  },
  "kick/pereira7": {
@@ -16,7 +16,7 @@
  },
  "kick/robleis": {
   "titulo": "🧠 TEST DE IQ CON TATATITO 🧠 TERROR 🧠 ARACNOFOBIA 🧠 2026-11-28 02:10",
-  "vivo": true,
+  "vivo": false,
   "vod": null
  },
  "kick/spreen": {
@@ -61,8 +61,8 @@
  },
  "twitch/elxokas": {
   "titulo": "elxokas (live) 2026-11-28 02:10",
-  "vivo": true,
-  "vod": "2939487232"
+  "vivo": false,
+  "vod": "2942408649"
  },
  "twitch/ibai": {
   "titulo": "",
@@ -120,8 +120,8 @@
   "vod": "2937354338"
  },
  "twitch/zeling": {
-  "titulo": "Zeling (live) 2026-11-27 10:31",
-  "vivo": false,
+  "titulo": "Zeling (live) 2026-11-28 10:25",
+  "vivo": true,
   "vod": "2942090409"
  }
 }
